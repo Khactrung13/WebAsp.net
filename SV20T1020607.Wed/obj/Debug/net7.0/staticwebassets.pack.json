@@ -1,0 +1,1493 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/obj/Debug/net7.0/scopedcss/projectbundle/SV20T1020607.Wed.bundle.scp.css",
+      "PackagePath": "staticwebassets/SV20T1020607.Wed.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457973443377330_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457973443377330_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457974457434520_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457974457434520_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457974982657830_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457974982657830_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457975316845540_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457975316845540_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457975884894530_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457975884894530_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457977951692250_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457977951692250_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457982260401390_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457982260401390_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457985384752140_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457985384752140_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457986602960240_anhthe.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457986602960240_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457992336031200_anhthe.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457992336031200_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638457994016508290_anhthe.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638457994016508290_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638458015297557790_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638458015297557790_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638458019161284430_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638458019161284430_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638458019952000370_anhthe.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638458019952000370_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638469201152309070_anhthenam.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638469201152309070_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470045370358660_Ảnh màn hình 2024-03-24 lúc 23.59.49.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470045370358660_Ảnh màn hình 2024-03-24 lúc 23.59.49.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470045636093470_Ảnh màn hình 2024-03-24 lúc 23.59.49.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470045636093470_Ảnh màn hình 2024-03-24 lúc 23.59.49.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470045890010520_Ảnh màn hình 2024-03-24 lúc 23.59.55.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470045890010520_Ảnh màn hình 2024-03-24 lúc 23.59.55.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470046007512230_Ảnh màn hình 2024-03-25 lúc 21.46.19.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470046007512230_Ảnh màn hình 2024-03-25 lúc 21.46.19.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470046097537730_Ảnh màn hình 2024-03-25 lúc 21.46.19.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470046097537730_Ảnh màn hình 2024-03-25 lúc 21.46.19.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470051038514840_xe1.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470051038514840_xe1.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470051104361750_xe2.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470051104361750_xe2.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470370317847970_xetapdi.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470370317847970_xetapdi.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470370573318880_xetapdi.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470370573318880_xetapdi.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470524085280720_xetapdi.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470524085280720_xetapdi.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/638470524249329170_xe2.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/638470524249329170_xe2.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/PhotoProducts/nophoto.png",
+      "PackagePath": "staticwebassets/images/PhotoProducts/nophoto.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/.DS_Store",
+      "PackagePath": "staticwebassets/images/employees/.DS_Store"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638453204691277080_anhthenam.png",
+      "PackagePath": "staticwebassets/images/employees/638453204691277080_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638455336351678330_photo.png",
+      "PackagePath": "staticwebassets/images/employees/638455336351678330_photo.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638459651691912480_anhthenam.png",
+      "PackagePath": "staticwebassets/images/employees/638459651691912480_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638459652508965190_anhthe.png",
+      "PackagePath": "staticwebassets/images/employees/638459652508965190_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638459652819567120_anhthenam.png",
+      "PackagePath": "staticwebassets/images/employees/638459652819567120_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638459667284610400_anhthenam.png",
+      "PackagePath": "staticwebassets/images/employees/638459667284610400_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638469108332801190_anhthenam.png",
+      "PackagePath": "staticwebassets/images/employees/638469108332801190_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638469179313502100_anhthe.png",
+      "PackagePath": "staticwebassets/images/employees/638469179313502100_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638469180090375860_anhthenam.png",
+      "PackagePath": "staticwebassets/images/employees/638469180090375860_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638469180709802200_anhthenam.png",
+      "PackagePath": "staticwebassets/images/employees/638469180709802200_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/638470028442086180_Ảnh màn hình 2024-03-24 lúc 23.59.49.png",
+      "PackagePath": "staticwebassets/images/employees/638470028442086180_Ảnh màn hình 2024-03-24 lúc 23.59.49.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/nophoto.png",
+      "PackagePath": "staticwebassets/images/employees/nophoto.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/employees/photo.png",
+      "PackagePath": "staticwebassets/images/employees/photo.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457954834919750_anhthenam.png",
+      "PackagePath": "staticwebassets/images/products/638457954834919750_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457955332378720_anhthe.png",
+      "PackagePath": "staticwebassets/images/products/638457955332378720_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457963750937970_anhthenam.png",
+      "PackagePath": "staticwebassets/images/products/638457963750937970_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457969302123650_anhthenam.png",
+      "PackagePath": "staticwebassets/images/products/638457969302123650_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457971820897370_anhthenam.png",
+      "PackagePath": "staticwebassets/images/products/638457971820897370_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457971877659940_Ảnh màn hình 2024-03-08 lúc 09.10.34.png",
+      "PackagePath": "staticwebassets/images/products/638457971877659940_Ảnh màn hình 2024-03-08 lúc 09.10.34.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457971938799310_anhthe.png",
+      "PackagePath": "staticwebassets/images/products/638457971938799310_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457972319185490_anhthe.png",
+      "PackagePath": "staticwebassets/images/products/638457972319185490_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457974357660370_anhthenam.png",
+      "PackagePath": "staticwebassets/images/products/638457974357660370_anhthenam.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638457988176851060_anhthe.png",
+      "PackagePath": "staticwebassets/images/products/638457988176851060_anhthe.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638470050604676110_xetapdi.png",
+      "PackagePath": "staticwebassets/images/products/638470050604676110_xetapdi.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/638470523833768070_xe2.png",
+      "PackagePath": "staticwebassets/images/products/638470523833768070_xe2.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/images/products/iphone.png",
+      "PackagePath": "staticwebassets/images/products/iphone.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/.DS_Store",
+      "PackagePath": "staticwebassets/themes/.DS_Store"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/AdminLTE.css",
+      "PackagePath": "staticwebassets/themes/dist/css/AdminLTE.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/AdminLTE.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/AdminLTE.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/adminlte.css.map",
+      "PackagePath": "staticwebassets/themes/dist/css/adminlte.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/adminlte.min.css.map",
+      "PackagePath": "staticwebassets/themes/dist/css/adminlte.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-select2.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-select2.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/alt/AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/alt/AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/_all-skins.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/_all-skins.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/_all-skins.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/_all-skins.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-black-light.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-black-light.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-black-light.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-black-light.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-black.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-black.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-black.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-black.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-blue-light.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-blue-light.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-blue-light.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-blue-light.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-blue.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-blue.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-blue.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-blue.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-green-light.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-green-light.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-green-light.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-green-light.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-green.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-green.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-green.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-green.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-purple-light.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-purple-light.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-purple-light.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-purple-light.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-purple.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-purple.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-purple.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-purple.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-red-light.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-red-light.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-red-light.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-red-light.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-red.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-red.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-red.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-red.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-yellow-light.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-yellow-light.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-yellow-light.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-yellow.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-yellow.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/css/skins/skin-yellow.min.css",
+      "PackagePath": "staticwebassets/themes/dist/css/skins/skin-yellow.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/avatar.png",
+      "PackagePath": "staticwebassets/themes/dist/img/avatar.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/avatar04.png",
+      "PackagePath": "staticwebassets/themes/dist/img/avatar04.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/avatar2.png",
+      "PackagePath": "staticwebassets/themes/dist/img/avatar2.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/avatar3.png",
+      "PackagePath": "staticwebassets/themes/dist/img/avatar3.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/avatar5.png",
+      "PackagePath": "staticwebassets/themes/dist/img/avatar5.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/credit/american-express.png",
+      "PackagePath": "staticwebassets/themes/dist/img/credit/american-express.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/credit/cirrus.png",
+      "PackagePath": "staticwebassets/themes/dist/img/credit/cirrus.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/credit/mastercard.png",
+      "PackagePath": "staticwebassets/themes/dist/img/credit/mastercard.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/credit/mestro.png",
+      "PackagePath": "staticwebassets/themes/dist/img/credit/mestro.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/credit/paypal.png",
+      "PackagePath": "staticwebassets/themes/dist/img/credit/paypal.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/credit/paypal2.png",
+      "PackagePath": "staticwebassets/themes/dist/img/credit/paypal2.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/credit/visa.png",
+      "PackagePath": "staticwebassets/themes/dist/img/credit/visa.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/default-50x50.gif",
+      "PackagePath": "staticwebassets/themes/dist/img/default-50x50.gif"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/icons.png",
+      "PackagePath": "staticwebassets/themes/dist/img/icons.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/photo1.png",
+      "PackagePath": "staticwebassets/themes/dist/img/photo1.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/photo2.png",
+      "PackagePath": "staticwebassets/themes/dist/img/photo2.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/photo3.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/photo3.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/photo4.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/photo4.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user1-128x128.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user1-128x128.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user2-160x160.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user2-160x160.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user3-128x128.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user3-128x128.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user4-128x128.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user4-128x128.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user5-128x128.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user5-128x128.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user6-128x128.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user6-128x128.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user7-128x128.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user7-128x128.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/img/user8-128x128.jpg",
+      "PackagePath": "staticwebassets/themes/dist/img/user8-128x128.jpg"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/js/adminlte.js",
+      "PackagePath": "staticwebassets/themes/dist/js/adminlte.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/js/adminlte.min.js",
+      "PackagePath": "staticwebassets/themes/dist/js/adminlte.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/js/demo.js",
+      "PackagePath": "staticwebassets/themes/dist/js/demo.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/js/pages/dashboard.js",
+      "PackagePath": "staticwebassets/themes/dist/js/pages/dashboard.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/dist/js/pages/dashboard2.js",
+      "PackagePath": "staticwebassets/themes/dist/js/pages/dashboard2.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/index.html",
+      "PackagePath": "staticwebassets/themes/index.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/index2.html",
+      "PackagePath": "staticwebassets/themes/index2.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/UI/buttons.html",
+      "PackagePath": "staticwebassets/themes/pages/UI/buttons.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/UI/general.html",
+      "PackagePath": "staticwebassets/themes/pages/UI/general.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/UI/icons.html",
+      "PackagePath": "staticwebassets/themes/pages/UI/icons.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/UI/modals.html",
+      "PackagePath": "staticwebassets/themes/pages/UI/modals.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/UI/sliders.html",
+      "PackagePath": "staticwebassets/themes/pages/UI/sliders.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/UI/timeline.html",
+      "PackagePath": "staticwebassets/themes/pages/UI/timeline.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/calendar.html",
+      "PackagePath": "staticwebassets/themes/pages/calendar.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/charts/chartjs.html",
+      "PackagePath": "staticwebassets/themes/pages/charts/chartjs.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/charts/flot.html",
+      "PackagePath": "staticwebassets/themes/pages/charts/flot.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/charts/inline.html",
+      "PackagePath": "staticwebassets/themes/pages/charts/inline.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/charts/morris.html",
+      "PackagePath": "staticwebassets/themes/pages/charts/morris.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/404.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/404.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/500.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/500.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/blank.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/blank.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/invoice-print.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/invoice-print.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/invoice.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/invoice.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/lockscreen.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/lockscreen.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/login.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/login.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/pace.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/pace.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/profile.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/profile.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/examples/register.html",
+      "PackagePath": "staticwebassets/themes/pages/examples/register.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/forms/advanced.html",
+      "PackagePath": "staticwebassets/themes/pages/forms/advanced.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/forms/editors.html",
+      "PackagePath": "staticwebassets/themes/pages/forms/editors.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/forms/general.html",
+      "PackagePath": "staticwebassets/themes/pages/forms/general.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/layout/boxed.html",
+      "PackagePath": "staticwebassets/themes/pages/layout/boxed.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/layout/collapsed-sidebar.html",
+      "PackagePath": "staticwebassets/themes/pages/layout/collapsed-sidebar.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/layout/fixed.html",
+      "PackagePath": "staticwebassets/themes/pages/layout/fixed.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/layout/top-nav.html",
+      "PackagePath": "staticwebassets/themes/pages/layout/top-nav.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/mailbox/compose.html",
+      "PackagePath": "staticwebassets/themes/pages/mailbox/compose.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/mailbox/mailbox.html",
+      "PackagePath": "staticwebassets/themes/pages/mailbox/mailbox.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/mailbox/read-mail.html",
+      "PackagePath": "staticwebassets/themes/pages/mailbox/read-mail.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/tables/data.html",
+      "PackagePath": "staticwebassets/themes/pages/tables/data.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/tables/simple.html",
+      "PackagePath": "staticwebassets/themes/pages/tables/simple.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/pages/widgets.html",
+      "PackagePath": "staticwebassets/themes/pages/widgets.html"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/bootstrap-slider/bootstrap-slider.js",
+      "PackagePath": "staticwebassets/themes/plugins/bootstrap-slider/bootstrap-slider.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/bootstrap-slider/slider.css",
+      "PackagePath": "staticwebassets/themes/plugins/bootstrap-slider/slider.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets/themes/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/all.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/all.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/_all.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/_all.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/aero.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/aero.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/aero.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/aero.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/aero@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/aero@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/blue.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/blue.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/blue.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/blue.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/blue@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/blue@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/flat.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/flat.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/flat.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/flat.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/flat@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/flat@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/green.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/green.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/green.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/green.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/green@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/green@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/grey.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/grey.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/grey.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/grey.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/grey@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/grey@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/orange.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/orange.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/orange.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/orange.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/orange@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/orange@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/pink.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/pink.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/pink.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/pink.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/pink@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/pink@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/purple.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/purple.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/purple.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/purple.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/purple@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/purple@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/red.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/red.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/red.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/red.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/red@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/red@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/yellow.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/yellow.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/yellow.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/yellow.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/flat/yellow@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/flat/yellow@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/futurico/futurico.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/futurico/futurico.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/futurico/futurico.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/futurico/futurico.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/futurico/futurico@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/futurico/futurico@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/icheck.js",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/icheck.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/icheck.min.js",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/icheck.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/_all.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/_all.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/aero.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/aero.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/blue.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/blue.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/green.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/green.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/grey.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/grey.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/line.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/line.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/line.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/line.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/line@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/line@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/orange.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/orange.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/pink.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/pink.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/purple.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/purple.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/red.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/red.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/line/yellow.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/line/yellow.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/_all.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/_all.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/aero.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/aero.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/aero.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/aero.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/aero@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/aero@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/blue.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/blue.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/blue.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/blue.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/blue@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/blue@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/green.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/green.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/green.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/green.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/green@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/green@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/grey.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/grey.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/grey.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/grey.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/grey@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/grey@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/minimal.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/minimal.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/minimal.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/minimal.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/minimal@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/minimal@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/orange.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/orange.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/orange.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/orange.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/orange@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/orange@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/pink.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/pink.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/pink.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/pink.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/pink@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/pink@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/purple.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/purple.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/purple.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/purple.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/purple@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/purple@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/red.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/red.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/red.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/red.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/red@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/red@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/yellow.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/yellow.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/yellow.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/yellow.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/minimal/yellow@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/minimal/yellow@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/polaris/polaris.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/polaris/polaris.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/polaris/polaris.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/polaris/polaris.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/polaris/polaris@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/polaris/polaris@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/_all.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/_all.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/aero.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/aero.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/aero.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/aero.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/aero@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/aero@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/blue.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/blue.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/blue.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/blue.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/blue@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/blue@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/green.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/green.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/green.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/green.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/green@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/green@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/grey.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/grey.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/grey.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/grey.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/grey@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/grey@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/orange.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/orange.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/orange.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/orange.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/orange@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/orange@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/pink.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/pink.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/pink.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/pink.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/pink@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/pink@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/purple.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/purple.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/purple.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/purple.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/purple@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/purple@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/red.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/red.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/red.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/red.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/red@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/red@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/square.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/square.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/square.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/square.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/square@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/square@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/yellow.css",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/yellow.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/yellow.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/yellow.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/iCheck/square/yellow@2x.png",
+      "PackagePath": "staticwebassets/themes/plugins/iCheck/square/yellow@2x.png"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/jquery.inputmask.js",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/jquery.inputmask.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/jquery.inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/jquery.inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/jquery.inputmask.phone.extensions.js",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/jquery.inputmask.phone.extensions.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/jquery.inputmask.regex.extensions.js",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/jquery.inputmask.regex.extensions.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/phone-codes/phone-be.json",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/phone-codes/phone-be.json"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/phone-codes/phone-codes.json",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/phone-codes/phone-codes.json"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/input-mask/phone-codes/readme.txt",
+      "PackagePath": "staticwebassets/themes/plugins/input-mask/phone-codes/readme.txt"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/jQueryUI/jquery-ui.js",
+      "PackagePath": "staticwebassets/themes/plugins/jQueryUI/jquery-ui.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/jQueryUI/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/themes/plugins/jQueryUI/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/jvectormap/jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets/themes/plugins/jvectormap/jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets/themes/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/jvectormap/jquery-jvectormap-usa-en.js",
+      "PackagePath": "staticwebassets/themes/plugins/jvectormap/jquery-jvectormap-usa-en.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/jvectormap/jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets/themes/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/pace/pace.css",
+      "PackagePath": "staticwebassets/themes/plugins/pace/pace.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/pace/pace.js",
+      "PackagePath": "staticwebassets/themes/plugins/pace/pace.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/pace/pace.min.css",
+      "PackagePath": "staticwebassets/themes/plugins/pace/pace.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/pace/pace.min.js",
+      "PackagePath": "staticwebassets/themes/plugins/pace/pace.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/timepicker/bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets/themes/plugins/timepicker/bootstrap-timepicker.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/timepicker/bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets/themes/plugins/timepicker/bootstrap-timepicker.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/timepicker/bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets/themes/plugins/timepicker/bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/plugins/timepicker/bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets/themes/plugins/timepicker/bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.Wed/wwwroot/themes/starter.html",
+      "PackagePath": "staticwebassets/themes/starter.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SV20T1020607.Wed.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SV20T1020607.Wed.props",
+      "PackagePath": "build\\SV20T1020607.Wed.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SV20T1020607.Wed.props",
+      "PackagePath": "buildMultiTargeting\\SV20T1020607.Wed.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SV20T1020607.Wed.props",
+      "PackagePath": "buildTransitive\\SV20T1020607.Wed.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

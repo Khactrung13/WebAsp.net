@@ -1,0 +1,124 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model SV20T1020607.Wed.Models.ProductSearchInput
+@{
+    ViewBag.Title = "Quản lý mặt hàng";
+
+}
+<h1>@ViewBag.Title</h1>
+<div class="box box-primary">
+    <div class="box-body">
+        <!--Form tim kiem -->
+        <form id="formSearch" action="~/Product/Search" data-container="#searchResult">
+
+            <div class="container-fluid row">
+                <div class="col-sm-3">
+                    @*
+        <select class="form-control" name="@nameof(Model.CategoryID)">
+            @if (Model.CategoryID == 0)
+            {
+                <option value="0" selected>--Tất cả---</option>
+            }
+            else
+            {
+                <option value="0">--Tất cả---</option>
+            }
+
+            @foreach (var item in SV20T1020067.BusinessLayers.CommonDataService.ListOfCategories())
+            {
+                if (Model.CategoryID == item.CategoryID)
+                {
+                    <option selected value="@item.CategoryID">@item.CategoryName</option>
+                }
+                else
+                {
+                    <option value="@item.CategoryID">@item.CategoryName</option>
+                }
+            }
+        </select>
+                    *@
+                    @Html.DropDownListFor(m => m.CategoryID, SelectListHelper.Categories(), new { @class = "form-control" })
+                </div>
+                <div class="col-sm-3">
+                    @*
+        <select class="form-control" name="@nameof(Model.SupplierID)">
+            @if (Model.SupplierID == 0)
+            {
+                <option value="0" selected>--Tất cả---</option>
+            }
+            else
+            {
+                <option value="0">--Tất cả---</option>
+            }
+
+            @foreach (var item in SV20T1020067.BusinessLayers.CommonDataService.ListOfSuppliers())
+            {
+                if (Model.SupplierID == item.SupplierID)
+                {
+                    <option selected value="@item.SupplierID">@item.SupplierName</option>
+                }
+                else
+                {
+                    <option value="@item.SupplierID">@item.SupplierName</option>
+                }
+            }
+        </select>
+                    *@
+                    @Html.DropDownListFor(m => m.SupplierID, SelectListHelper.Suppliers(), new { @class = "form-control" })
+                </div>
+                <div class="col-sm-6 input-group">
+                    <input type="hidden" name="@nameof(Model.PageSize)" value="@Model.PageSize" />
+                    <input name="searchValue" type="text" class="form-control" value="@Model.SearchValue" placeholder="Nhâp tên mặt hàng cần tìm .....">
+                    <div class="input-group-btn">
+                        <button class="btn btn-info" type="submit">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                        <a href="~/Product/Create" class="btn btn-primary" style="margin-left:5px">
+                            <i class="fa fa-plus"></i>Bổ Sung
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <!-- -->
+
+        <div id="searchResult">
+
+        </div>
+    </div>
+</div>
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $("#formSearch").submit(function (e) {
+                e.preventDefault();
+                doSearch(this, 1);
+                return;
+            });
+            doSearch("#formSearch", @Model.Page);
+       });
+
+        function doSearch(formSearchInput, page) {
+            var url = $(formSearchInput).prop("action");
+            var container = $(formSearchInput).data("container");
+            var postData = $(formSearchInput).serializeArray();
+            postData.push({ "name": "page", "value": page });
+            $.ajax({
+                url: url,
+                type: "POST",
+                data: postData,
+                error: function () {
+                    alert("Your request is not valid!");
+                },
+                success: function (data) {
+                    $(container).html(data);
+                }
+            });
+
+            return;
+        }
+    </script>
+}
+
+

@@ -1,0 +1,12 @@
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/SV20T1020607.DomainModels.csproj.AssemblyReference.cache
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/SV20T1020607.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/SV20T1020607.DomainModels.AssemblyInfoInputs.cache
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/SV20T1020607.DomainModels.AssemblyInfo.cs
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/SV20T1020607.DomainModels.csproj.CoreCompileInputs.cache
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/bin/Debug/net7.0/SV20T1020607.DomainModels.deps.json
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/bin/Debug/net7.0/SV20T1020607.DomainModels.dll
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/bin/Debug/net7.0/SV20T1020607.DomainModels.pdb
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/SV20T1020607.DomainModels.dll
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/refint/SV20T1020607.DomainModels.dll
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/SV20T1020607.DomainModels.pdb
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/Debug/net7.0/ref/SV20T1020607.DomainModels.dll

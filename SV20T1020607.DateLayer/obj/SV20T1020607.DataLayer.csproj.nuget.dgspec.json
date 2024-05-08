@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/SV20T1020607.DataLayer.csproj": {}
+  },
+  "projects": {
+    "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/SV20T1020607.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/SV20T1020607.DataLayer.csproj",
+        "projectName": "SV20T1020607.DataLayer",
+        "projectPath": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/SV20T1020607.DataLayer.csproj",
+        "packagesPath": "/Users/nguyentrung/.nuget/packages/",
+        "outputPath": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nguyentrung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/SV20T1020607.DomainModels.csproj": {
+                "projectPath": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/SV20T1020607.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/SV20T1020607.DomainModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/SV20T1020607.DomainModels.csproj",
+        "projectName": "SV20T1020607.DomainModels",
+        "projectPath": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/SV20T1020607.DomainModels.csproj",
+        "packagesPath": "/Users/nguyentrung/.nuget/packages/",
+        "outputPath": "/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DomainModels/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nguyentrung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

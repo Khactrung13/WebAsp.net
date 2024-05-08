@@ -1,0 +1,48 @@
+﻿
+@model SV20T1020607.DomainModels.ProductAttribute
+
+<h1>@ViewBag.Title</h1>
+<div class="box box-primary">
+    <div class="box-body">
+        <form class="form-horizontal" action="~/Product/SaveAttribute/@Model.ProductID" method="post" enctype="multipart/form-data">
+            @Html.ValidationMessage("Error", new { @style = "color:#f00;margin-left: 200px;" })
+            <input type="hidden" name="@nameof(Model.AttributeID)" value="@Model.AttributeID" />
+            <div class="form-group">
+                <label class="control-label col-sm-2">Tên thuộc tính: (*)</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" autofocus name="AttributeName" value="@Model.AttributeName">
+                    @Html.ValidationMessage(nameof(Model.AttributeName), new { @style = "color:#f00" })
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2">Giá trị thuộc tính: (*)</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" autofocus name="AttributeValue" value="@Model.AttributeValue">
+                    @Html.ValidationMessage(nameof(Model.AttributeValue), new { @style = "color:#f00" })
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2">Thứ tự hiển thị: (*)</label>
+                <div class="col-sm-10">
+                    <input type="number" class="form-control" autofocus name="DisplayOrder" value="@Model.DisplayOrder">
+                    @Html.ValidationMessage(nameof(Model.DisplayOrder), new { @style = "color:#f00" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-lg-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fa fa-save"></i> Lưu dữ liệu
+                    </button>
+                    <a class="btn btn-default" href="~/Product/Edit/@Model.ProductID">
+                        Quay lại
+                    </a>
+                </div>
+            </div>
+        </form>
+
+    </div>
+
+</div>
+
+
+

@@ -1,0 +1,5 @@
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/obj/Debug/net7.0/SV20T1020607.DateLayer.csproj.AssemblyReference.cache
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/obj/Debug/net7.0/SV20T1020607.DateLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/obj/Debug/net7.0/SV20T1020607.DateLayer.AssemblyInfoInputs.cache
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/obj/Debug/net7.0/SV20T1020607.DateLayer.AssemblyInfo.cs
+/Users/nguyentrung/Projects/SV20T1020607/SV20T1020607.DateLayer/obj/Debug/net7.0/SV20T1020607.DateLayer.csproj.CoreCompileInputs.cache

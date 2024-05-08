@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <Content Remove="wwwroot\themes\" />
+    <Content Remove="wwwroot\images\" />
+    <Content Remove="wwwroot\images\employees\" />
+    <Content Remove="wwwroot\images\products\" />
+    <Content Remove="wwwroot\images\PhotoProducts\" />
+    <Content Remove="wwwroot\images\products\nophoto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\themes\" />
+    <Folder Include="Views\Customer\" />
+    <Folder Include="Views\Supplier\" />
+    <Folder Include="Views\Shipper\" />
+    <Folder Include="Views\Category\" />
+    <Folder Include="Views\Employee\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\images\employees\" />
+    <Folder Include="wwwroot\images\products\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="Views\Order\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="Views\Test\" />
+    <Folder Include="AppCodes\" />
+    <Folder Include="wwwroot\images\PhotoProducts\" />
+    <Folder Include="Views\EmployeeAccount\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Customer\" />
+    <None Remove="Views\Supplier\" />
+    <None Remove="Views\Shipper\" />
+    <None Remove="Views\Category\" />
+    <None Remove="Views\Employee\" />
+    <None Remove="Views\Product\" />
+    <None Remove="Views\Order\" />
+    <None Remove="Views\Account\" />
+    <None Remove="Views\Test\" />
+    <None Remove="AppCodes\" />
+    <None Remove="Views\EmployeeAccount\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SV20T1020067.BusinessLayers\SV20T1020067.BusinessLayers.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SV20T1020607.DateLayer\SV20T1020607.DataLayer.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SV20T1020607.DomainModels\SV20T1020607.DomainModels.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

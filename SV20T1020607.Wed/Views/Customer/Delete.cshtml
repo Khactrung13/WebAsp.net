@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model SV20T1020607.DomainModels.Customer
+@{
+    ViewBag.Title = "Xóa khách hàng";
+}
+<h1>@ViewBag.Title</h1>
+<div class="box box-danger">
+    <div class="box-body">
+        <form action="~/Customer/Delete/@Model.CustomerID" method="post">
+            <div class="form-group">
+                <label>Tên khách hàng:</label>
+                <p class="form-control-static">@Model.CustomerName</p>
+            </div>
+            <div class="form-group">
+                <label>Tên giao dịch:</label>
+                <p class="form-control-static">@Model.ContactName</p>
+            </div>
+            <div class="form-group">
+                <label>Điện thoại:</label>
+                <p class="form-control-static">@Model.Phone</p>
+            </div>
+            <div class="form-group">
+                <label>Email:</label>
+                <p class="form-control-static">@Model.Email</p>
+            </div>
+            <div class="form-group">
+                <label>Địa chỉ:</label>
+                <p class="form-control-static">@Model.Address</p>
+            </div>
+            <div class="form-group">
+                <label>Tỉnh thành:</label>
+                <p class="form-control-static">@Model.Province</p>
+            </div>
+
+            <div class="form-group">
+                <label>Trạng thái:</label>
+                <p class="form-control-static">@(Model.IsLocked ? "Tài khoản đang bị khóa " : "Tài khoản đang hoạt động")</p>
+            </div>
+
+            <div class="form-group">
+                @if (!SV20T1020067.BusinessLayers.CommonDataService.IsUsedCustomer(Model.CustomerID))
+                {
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fa fa-trash"></i>
+                        Xác nhận xóa dữ liệu
+                    </button>
+                }
+
+                <a href="~/Customer" class="btn btn-default">
+                    Quay lại
+                </a>
+
+            </div>
+
+        </form>
+
+    </div>
+</div>
+

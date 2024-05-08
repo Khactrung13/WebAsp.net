@@ -1,0 +1,89 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model SV20T1020607.Wed.Models.ProductSearchResult
+@{
+    Layout = null;
+}
+<div>
+    @if (Model.Data != null && Model.Data.Any())
+    {
+        <p style="margin:10px 0 10px 0">
+            Có <strong>@Model.RountCount</strong> mặt hàng trong tổng số <strong>@Model.PageCount </strong>trang !!!!
+        </p>
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover table-striped">
+                <thead>
+                    <tr class="bg-primary">
+                        <th style="width:80px">Ảnh</th>
+                        <th style="width:auto">Tên mặt hàng</th>
+                        <th style="width:100px">Đơn vị tính</th>
+                        <th style="width:120px">Giá</th>
+                        <th style="width:100px">Ngừng bán?</th>
+                        <th style="width:80px"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Data)
+                    {
+
+
+                        <tr>
+                            @if (item.Photo == "")
+                            {
+                                <td>
+                                    <img style="width:80%" src="~/images/products/nophoto.png" alt="Ảnh" />
+                                </td>
+                            }
+                            else
+                            {
+                                <td>
+                                    <img style="width:80%" src="~/images/products/@item.Photo" alt="Ảnh" />
+                                </td>
+                            }
+
+                            <td>
+                                @item.ProductName
+                                <br />
+                                <i> @item.ProductDescription</i>
+                            </td>
+                            <td>@item.Unit</td>
+                            <td>@item.Price.ToString("#,##0 VNĐ")</td>
+                            <td></td>
+                            <td class="text-right">
+                                <a href="~/Product/Edit/@item.ProductID" class="bnt bnt-xs bnt-info">
+                                    <i class="fa fa-edit"></i>
+                                </a>
+                                <a style="color: red;" href="~/Product/Delete/@item.ProductID" class="bnt bnt-xs bnt-danger">
+                                    <i class="fa fa-remove"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <p class="text-center" style=" color: red; margin-top: 20px; font-weight: bold;">Không có kết quả tìm kiếm.</p>
+    }
+    @if (Model.PageCount > 1)
+        {
+        <div class="text-center">
+            <ul class="pagination">
+                @for (int i = 1; i <= Model.PageCount; i++)
+                    {
+                        if (Model.Page == i)
+                        {
+                        <li class="active"><a href="#">@i</a></li>
+                        }
+                        else
+                        {
+                        <li><a href="javascript:," onclick="doSearch('#formSearch',@i)">@i</a></li>
+                        }
+                    }
+            </ul>
+        </div>
+        }
+ </div>

@@ -1,0 +1,34 @@
+﻿@model SV20T1020607.DomainModels.Shipper
+<h1>@ViewBag.Title</h1>
+<div class="box box-danger">
+    <div class="box-body">
+        <form action="~/Shipper/Delete/@Model.ShipperID" method="post">
+            <div class="form-group">
+                <label>Tên người giao hàng:</label>
+                <p class="form-control-static">@Model.ShipperName</p>
+            </div>
+            <div class="form-group">
+                <label>Điện thoại:</label>
+                <p class="form-control-static">@Model.Phone</p>
+            </div>
+
+            <div class="form-group">
+                <div>
+                    @if (!SV20T1020067.BusinessLayers.CommonDataService.IsUsedShipper(Model.ShipperID))
+                    {
+                        <button type="submit" class="btn btn-danger">
+                            <i class="fa fa-trash"></i>
+                            Xác nhận xóa dữ liệu
+                        </button>
+                    }
+
+                    <a href="~/Shipper" class="btn btn-default">
+                        Quay lại
+                    </a>
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+</div>
